@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace vidly.Models
+namespace Vidly.Models
 {
     public class ExternalLoginConfirmationViewModel
     {
